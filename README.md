@@ -8,8 +8,6 @@ This repository contains the Xcode theme that I use. Feel free to use it or modi
 
 ## Installation
 
-You can also choose to do things manually if you want:
-
 1. Clone this repo:
 ```
 $ https://github.com/devwaseem/XcodeTheme.git
@@ -22,6 +20,6 @@ $ https://github.com/devwaseem/XcodeTheme.git
 
 3. Copy the file `Rich.xccolortheme` into the above folder.
 
-4. Open Xcode preferences `⌘ + ,` and select the `Rich` theme
+4. Open Xcode preferences ( or click ` ⌘ + , ` ) and select the `Rich` theme
 
 
